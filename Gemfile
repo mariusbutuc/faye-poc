@@ -4,6 +4,7 @@ gem 'rails', '3.2.10'
 gem 'thin'
 gem 'faye'
 gem 'foreman'
+gem 'haml-rails'
 
 gem 'sqlite3'
 
